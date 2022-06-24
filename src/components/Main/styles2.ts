@@ -18,7 +18,7 @@ display: none;
 
 export const SearchInput = styled.input`
 
-width: 100%;
+width: 250px;
 height: 39px;
 font-size: 14px;
 padding: 0 10px 0 52px;
